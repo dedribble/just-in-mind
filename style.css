@@ -135,8 +135,8 @@ nav .download-btn {
 }
 
 .container > #illustration {
-    width: 600px;
-    height: 600px;
+    /* width: 600px;
+    height: 600px; */
     padding:10px;
 }
 
